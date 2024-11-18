@@ -9,3 +9,15 @@
 # [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 # [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 # [“Russia”, “Denmark”, “Kazan”] → []
+
+# %%
+
+input = ['1234', '1567', '-2', 'computer science']
+result = []
+maxLetters = 3
+
+for i in range(len(input)):
+    if (len(input[i]) <= maxLetters):
+        result.append(input[i])
+
+print(result)
