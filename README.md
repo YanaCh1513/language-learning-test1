@@ -15,6 +15,10 @@
 [“Russia”, “Denmark”, “Kazan”] → []
 ```
 
+### Блок схема:
+![Блок схема](https://github.com/YanaCh1513/language-learning-test1/blob/main/scheema-1.png)
+
+
 ### Программа:
 #### Языком был выбран Python.
 #### Листинг программы (Python):
